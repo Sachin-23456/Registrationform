@@ -46,4 +46,8 @@ styles.css → Contains all styling for the form
 
 How to Use:-
 
+git clone  https://github.com/Sachin-23456/Registrationform.git
 
+
+
+![Screenshot 2025-03-28 121828](https://github.com/user-attachments/assets/55de794e-1ae6-4eba-8d84-69d6e9d897ad)
